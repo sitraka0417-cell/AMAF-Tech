@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/splash"
+        android:label="AMAF Imamo Tech"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="false">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MenuActivity" android:exported="false" />
+        <activity android:name=".RaharahaActivity" android:exported="false" />
+        <activity android:name=".MpitarikaActivity" android:exported="false" />
+        <activity android:name=".SampanaActivity" android:exported="false" />
+        <activity android:name=".FifandraisanaActivity" android:exported="false" />
+        <activity android:name=".MaikaActivity" android:exported="false" />
+        <activity android:name=".VavakaActivity" android:exported="false" />
+        <activity android:name=".SabataActivity" android:exported="false" />
+        <activity android:name=".HafatraActivity" android:exported="false" />
+        <activity android:name=".AlarmActivity" android:exported="false" />
+
+    </application>
+
+</manifest>

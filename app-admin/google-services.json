@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "244458085899",
+    "firebase_url": "https://discusecret-default-rtdb.firebaseio.com",
+    "project_id": "discusecret",
+    "storage_bucket": "discusecret.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244458085899:android:7b5f5e543ac2cc290c710e",
+        "android_client_info": {
+          "package_name": "com.amaf.imamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8a_xdYdigq3pBQmQGxLLWtmj8omGFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244458085899:android:847943efe1e05dfe0c710e",
+        "android_client_info": {
+          "package_name": "com.amaf.imamo.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8a_xdYdigq3pBQmQGxLLWtmj8omGFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244458085899:android:2e5d514ad37dc58d0c710e",
+        "android_client_info": {
+          "package_name": "com.discu.secret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8a_xdYdigq3pBQmQGxLLWtmj8omGFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244458085899:android:a03cd5600afa7a270c710e",
+        "android_client_info": {
+          "package_name": "com.komandy.eds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244458085899-6s082r02nhs1ck52n00g39hssno6b08n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.komandy.eds",
+            "certificate_hash": "61ed377e85d386a8dfee6b864bd85b0bfaa5af81"
+          }
+        },
+        {
+          "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8a_xdYdigq3pBQmQGxLLWtmj8omGFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244458085899:android:cbf6d5698978f4940c710e",
+        "android_client_info": {
+          "package_name": "com.me.nambs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8a_xdYdigq3pBQmQGxLLWtmj8omGFQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244458085899-getlvn5v7079ghbmgo6jo65ot2gm9otf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

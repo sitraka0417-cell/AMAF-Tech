@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/raharaha"
+        android:label="AMAF Imamo Tech Admin"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="false">
+
+        <activity
+            android:name=".PinActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity" android:exported="false" />
+        <activity android:name=".SettingsActivity" android:exported="false" />
+        <activity android:name=".ChangepinActivity" android:exported="false" />
+        <activity android:name=".RaharahaActivity" android:exported="false" />
+        <activity android:name=".MpitarikaActivity" android:exported="false" />
+        <activity android:name=".SampanaharivaActivity" android:exported="false" />
+        <activity android:name=".DiakonaActivity" android:exported="false" />
+        <activity android:name=".SampanaActivity" android:exported="false" />
+        <activity android:name=".FifandraisanaActivity" android:exported="false" />
+        <activity android:name=".MaikaActivity" android:exported="false" />
+        <activity android:name=".VavakaActivity" android:exported="false" />
+        <activity android:name=".HafatraActivity" android:exported="false" />
+
+    </application>
+
+</manifest>
